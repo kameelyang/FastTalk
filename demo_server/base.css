@@ -1,6 +1,11 @@
+body {
+    margin:0px; padding:0px;
+}
+
 .banner {
     height:100px;
     background-color:#124399;
+    border:1px solid #124399;
 }
 
 .headerText {
